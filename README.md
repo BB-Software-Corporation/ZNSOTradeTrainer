@@ -17,6 +17,12 @@
 * 实时记录
 <img width="966" height="884" alt="image" src="https://github.com/user-attachments/assets/f7a620f9-0824-424b-9ecd-af331118f8fb" />
 
+## 其他软件
+> 如果想要下载其他软件，请访问[小宝宝软件公司官方GitHub网站](https://github.com/bb-software-corporation)
+
+## ↓ 下载
+> 想要下载？访问我们的[官方下载网站]()
+
 ## ⚠ 注意事项
 * 这个软件也属于半开源，不过在**v1.0.0 Prerelease**系列的版本中，允许使用。
 * 不过除了这个版本之外，必须知道Pass Key 才可以打开应用。
