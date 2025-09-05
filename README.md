@@ -28,7 +28,7 @@
 > 或者你想下载最新版本的化，请进入[此链接](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases/latest)
 
 ## ⚠ 注意事项
-* 这个软件也属于半开源，不过在**v1.0.0 Prerelease**系列的版本中，允许使用。
+* 这个软件也属于半开源，不过在**v1.x Prerelease**系列的版本中，允许使用。
 * 不过除了这个版本之外，必须知道Pass Key 才可以打开应用。
 
 * 实际应用可能和[软件截图](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/?tab=readme-ov-file#%E8%BD%AF%E4%BB%B6%E6%88%AA%E5%9B%BE)不一样
