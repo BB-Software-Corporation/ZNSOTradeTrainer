@@ -9,7 +9,7 @@
 
 下载？[进入下载部分](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/?tab=readme-ov-file#-%E4%B8%8B%E8%BD%BD)
 
-## 软件截图
+## 📹软件截图
 * K线显示记录：
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/87522c09-51d1-4224-ae20-3894184ef905" />
 
