@@ -21,7 +21,8 @@
 > 如果想要下载其他软件，请访问[小宝宝软件公司官方GitHub网站](https://github.com/bb-software-corporation)
 
 ## ↓ 下载
-> 想要下载？访问我们的[官方下载网站](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases)
+> 想要下载？访问我们的[官方历史版本下载网站](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases)
+> 或者你想下载最新版本的化，请进入[此链接](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases/latest)
 
 ## ⚠ 注意事项
 * 这个软件也属于半开源，不过在**v1.0.0 Prerelease**系列的版本中，允许使用。
