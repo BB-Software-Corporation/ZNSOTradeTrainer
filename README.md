@@ -22,6 +22,7 @@
 
 ## ↓ 下载
 > 想要下载？访问我们的[官方历史版本下载网站](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases)
+> 
 > 或者你想下载最新版本的化，请进入[此链接](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases/latest)
 
 ## ⚠ 注意事项
