@@ -1,10 +1,11 @@
 # ZNSOTradeTrainer
 这是我们小宝宝软件公司的第二个出品，这个软件可以模拟股市的交易💴，不需要像富途牛牛那样手机号码开户来模拟。不过：
-> 该软件还是处于**预发行**状态，所以请谨慎使用（一般状态下不会出什么大问题）
->
+
 > 如果要使用稳定版的话，最好知道Pass Key步骤，否则会出现错误或者闪退。
 >
 > 以后的版本可能可以和[ZNSO Notepad Pro](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro) 搭配使用
+>
+> 该项目已经**不会更新** 了，因此该项目转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner) 中。
 ## ⭐功能亮点
 * 这个软件里面使用了模拟账户登录的方法来区分开操作
 * 允许用户以K线图的方法来看到自己的交易记录
