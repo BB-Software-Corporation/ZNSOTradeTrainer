@@ -5,7 +5,9 @@
 >
 > 以后的版本可能可以和[ZNSO Notepad Pro](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro) 搭配使用
 >
-> 该项目已经**不会更新** 了，因此该项目转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner) 中。
+
+## ⚠注意：该项目已经**不会更新** 了，因此该项目转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner) 中。 
+ 
 ## ⭐功能亮点
 * 这个软件里面使用了模拟账户登录的方法来区分开操作
 * 允许用户以K线图的方法来看到自己的交易记录
